@@ -1,0 +1,194 @@
+[
+  {
+    "id": "v1-de-getting-started",
+    "locale": "de",
+    "version": "v1",
+    "slug": "getting-started",
+    "title": "Erste Schritte",
+    "content": "Erste Schritte (v1 - DE) This guide helps you begin using v1 quickly. Prerequisites Install dependencies and configure environment variables. Quick Start Run the application and open the docs route in your browser."
+  },
+  {
+    "id": "v1-de-introduction",
+    "locale": "de",
+    "version": "v1",
+    "slug": "introduction",
+    "title": "Einfuehrung",
+    "content": "Einfuehrung (v1 - DE) Welcome to v1 documentation in DE. Overview This page introduces core concepts for v1. Next Steps Continue to getting started for practical setup instructions."
+  },
+  {
+    "id": "v1-en-getting-started",
+    "locale": "en",
+    "version": "v1",
+    "slug": "getting-started",
+    "title": "Getting Started",
+    "content": "Getting Started (v1 - EN) This guide helps you begin using v1 quickly. Prerequisites Install dependencies and configure environment variables. Quick Start Run the application and open the docs route in your browser."
+  },
+  {
+    "id": "v1-en-introduction",
+    "locale": "en",
+    "version": "v1",
+    "slug": "introduction",
+    "title": "Introduction",
+    "content": "Introduction (v1 - EN) Welcome to v1 documentation in EN. Overview This page introduces core concepts for v1. Next Steps Continue to getting started for practical setup instructions."
+  },
+  {
+    "id": "v1-es-getting-started",
+    "locale": "es",
+    "version": "v1",
+    "slug": "getting-started",
+    "title": "Primeros Pasos",
+    "content": "Primeros Pasos (v1 - ES) This guide helps you begin using v1 quickly. Prerequisites Install dependencies and configure environment variables. Quick Start Run the application and open the docs route in your browser."
+  },
+  {
+    "id": "v1-es-introduction",
+    "locale": "es",
+    "version": "v1",
+    "slug": "introduction",
+    "title": "Introduccion",
+    "content": "Introduccion (v1 - ES) Welcome to v1 documentation in ES. Overview This page introduces core concepts for v1. Next Steps Continue to getting started for practical setup instructions."
+  },
+  {
+    "id": "v1-fr-getting-started",
+    "locale": "fr",
+    "version": "v1",
+    "slug": "getting-started",
+    "title": "Bien Demarrer",
+    "content": "Bien Demarrer (v1 - FR) This guide helps you begin using v1 quickly. Prerequisites Install dependencies and configure environment variables. Quick Start Run the application and open the docs route in your browser."
+  },
+  {
+    "id": "v1-fr-introduction",
+    "locale": "fr",
+    "version": "v1",
+    "slug": "introduction",
+    "title": "Introduction",
+    "content": "Introduction (v1 - FR) Welcome to v1 documentation in FR. Overview This page introduces core concepts for v1. Next Steps Continue to getting started for practical setup instructions."
+  },
+  {
+    "id": "v2-de-getting-started",
+    "locale": "de",
+    "version": "v2",
+    "slug": "getting-started",
+    "title": "Erste Schritte",
+    "content": "Erste Schritte (v2 - DE) This guide helps you begin using v2 quickly. Prerequisites Install dependencies and configure environment variables. Quick Start Run the application and open the docs route in your browser."
+  },
+  {
+    "id": "v2-de-introduction",
+    "locale": "de",
+    "version": "v2",
+    "slug": "introduction",
+    "title": "Einfuehrung",
+    "content": "Einfuehrung (v2 - DE) Welcome to v2 documentation in DE. Overview This page introduces core concepts for v2. Next Steps Continue to getting started for practical setup instructions."
+  },
+  {
+    "id": "v2-en-getting-started",
+    "locale": "en",
+    "version": "v2",
+    "slug": "getting-started",
+    "title": "Getting Started",
+    "content": "Getting Started (v2 - EN) This guide helps you begin using v2 quickly. Prerequisites Install dependencies and configure environment variables. Quick Start Run the application and open the docs route in your browser."
+  },
+  {
+    "id": "v2-en-introduction",
+    "locale": "en",
+    "version": "v2",
+    "slug": "introduction",
+    "title": "Introduction",
+    "content": "Introduction (v2 - EN) Welcome to v2 documentation in EN. Overview This page introduces core concepts for v2. Next Steps Continue to getting started for practical setup instructions."
+  },
+  {
+    "id": "v2-es-getting-started",
+    "locale": "es",
+    "version": "v2",
+    "slug": "getting-started",
+    "title": "Primeros Pasos",
+    "content": "Primeros Pasos (v2 - ES) This guide helps you begin using v2 quickly. Prerequisites Install dependencies and configure environment variables. Quick Start Run the application and open the docs route in your browser."
+  },
+  {
+    "id": "v2-es-introduction",
+    "locale": "es",
+    "version": "v2",
+    "slug": "introduction",
+    "title": "Introduccion",
+    "content": "Introduccion (v2 - ES) Welcome to v2 documentation in ES. Overview This page introduces core concepts for v2. Next Steps Continue to getting started for practical setup instructions."
+  },
+  {
+    "id": "v2-fr-getting-started",
+    "locale": "fr",
+    "version": "v2",
+    "slug": "getting-started",
+    "title": "Bien Demarrer",
+    "content": "Bien Demarrer (v2 - FR) This guide helps you begin using v2 quickly. Prerequisites Install dependencies and configure environment variables. Quick Start Run the application and open the docs route in your browser."
+  },
+  {
+    "id": "v2-fr-introduction",
+    "locale": "fr",
+    "version": "v2",
+    "slug": "introduction",
+    "title": "Introduction",
+    "content": "Introduction (v2 - FR) Welcome to v2 documentation in FR. Overview This page introduces core concepts for v2. Next Steps Continue to getting started for practical setup instructions."
+  },
+  {
+    "id": "v3-de-getting-started",
+    "locale": "de",
+    "version": "v3",
+    "slug": "getting-started",
+    "title": "Erste Schritte",
+    "content": "Erste Schritte (v3 - DE) This guide helps you begin using v3 quickly. Prerequisites Install dependencies and configure environment variables. Quick Start Run the application and open the docs route in your browser."
+  },
+  {
+    "id": "v3-de-introduction",
+    "locale": "de",
+    "version": "v3",
+    "slug": "introduction",
+    "title": "Einfuehrung",
+    "content": "Einfuehrung (v3 - DE) Welcome to v3 documentation in DE. Overview This page introduces core concepts for v3. Next Steps Continue to getting started for practical setup instructions."
+  },
+  {
+    "id": "v3-en-getting-started",
+    "locale": "en",
+    "version": "v3",
+    "slug": "getting-started",
+    "title": "Getting Started",
+    "content": "Getting Started (v3 - EN) This guide helps you begin using v3 quickly. Prerequisites Install dependencies and configure environment variables. Quick Start Run the application and open the docs route in your browser."
+  },
+  {
+    "id": "v3-en-introduction",
+    "locale": "en",
+    "version": "v3",
+    "slug": "introduction",
+    "title": "Introduction",
+    "content": "Introduction (v3 - EN) Welcome to v3 documentation in EN. Overview This page introduces core concepts for v3. Next Steps Continue to getting started for practical setup instructions."
+  },
+  {
+    "id": "v3-es-getting-started",
+    "locale": "es",
+    "version": "v3",
+    "slug": "getting-started",
+    "title": "Primeros Pasos",
+    "content": "Primeros Pasos (v3 - ES) This guide helps you begin using v3 quickly. Prerequisites Install dependencies and configure environment variables. Quick Start Run the application and open the docs route in your browser."
+  },
+  {
+    "id": "v3-es-introduction",
+    "locale": "es",
+    "version": "v3",
+    "slug": "introduction",
+    "title": "Introduccion",
+    "content": "Introduccion (v3 - ES) Welcome to v3 documentation in ES. Overview This page introduces core concepts for v3. Next Steps Continue to getting started for practical setup instructions."
+  },
+  {
+    "id": "v3-fr-getting-started",
+    "locale": "fr",
+    "version": "v3",
+    "slug": "getting-started",
+    "title": "Bien Demarrer",
+    "content": "Bien Demarrer (v3 - FR) This guide helps you begin using v3 quickly. Prerequisites Install dependencies and configure environment variables. Quick Start Run the application and open the docs route in your browser."
+  },
+  {
+    "id": "v3-fr-introduction",
+    "locale": "fr",
+    "version": "v3",
+    "slug": "introduction",
+    "title": "Introduction",
+    "content": "Introduction (v3 - FR) Welcome to v3 documentation in FR. Overview This page introduces core concepts for v3. Next Steps Continue to getting started for practical setup instructions."
+  }
+]
